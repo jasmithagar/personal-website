@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    position: sticky;
+    top: 0;
+    background-color: #dc97a5;
+    border-bottom: 2px solid black;
+}
+
+.navtext{
+    color: #b83556;
+    font-family: Arial, serif;
+    font-size: large;
+}
