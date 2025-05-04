@@ -3,7 +3,7 @@ import styles from './NavBar.module.css'
 const NavData = [
     {
         title: "home",
-        path: "/",
+        path: "/home",
         id: 1
     },
     {
@@ -13,7 +13,7 @@ const NavData = [
     },
     {
         title: "socials",
-        path: "#socials",
+        path: "/socials",
         id: 3
     }
 ]

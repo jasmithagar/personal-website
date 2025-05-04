@@ -6,10 +6,15 @@
     top: 0;
     background-color: #dc97a5;
     border-bottom: 2px solid black;
+    
 }
 
 .navtext{
     color: #b83556;
     font-family: Arial, serif;
     font-size: large;
+}
+
+.navbar :hover{
+    color: white;
 }
